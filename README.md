@@ -5,6 +5,6 @@
 
 - **👋🏻</HOLA MUNDO, SOY SORDO>🧏🏻‍♂️**
 - 🏢 Ingeniero de software (Desarrollador Frontend)
-- 🧰 Construyo con:  `HTML` , `CSS` , `JavaScript` , `Angular` , `React` , `C++` , `Swift` , `GitHub`
-- ⚡ Disfruto la fotografía, leer el libro, ejercicio de atletismo y aprendizaje cosas
+- 🧰 Construyo con:  `HTML` , `CSS` , `JavaScript` , `Angular` , `React` , `C++`
+- ⚡ Disfruto la fotografía, leer el libro, deporte de atletismo y aprendizaje cosas
 - 📫 Contáctame: **joseealcantaras@gmail.com**
