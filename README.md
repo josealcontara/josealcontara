@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/josealcontara/)
 
 - **👋🏻</HOLA MUNDO, SOY SORDO>🧏🏻‍♂️**
-- 🏢 Ingeniero de software (Desarrollador Frontend)
-- 🧰 Construyo con:  `HTML` , `CSS` , `JavaScript` , `Angular` , `React` , `C++`
-- ⚡ Disfruto la fotografía, leer el libro, deporte de atletismo y aprendizaje cosas
+- 🏢 Ingeniero de software
+- 🧰 Construyo con:  `HTML` , `CSS` , `JavaScript`
+- ⚡ Mis pasatiempos: Son programar, leer libros, levantar pesas y explorar nuevos aprendizajes
 - 📫 Contáctame: **joseealcantaras@gmail.com**
