@@ -5,5 +5,5 @@
 - **👋🏻</HOLA MUNDO, SOY SORDO>🧏🏻‍♂️**
 - 🏢 Ingeniero de software
 - 🧰 Construyo con:  `HTML` , `CSS` , `JavaScript`
-- ⚡ Mis pasatiempos: Son programar, leer libros, levantar pesas y explorar nuevos aprendizajes
+- ⚡ Mis pasatiempos: Tech y de Lifestyle 
 - 📫 Contáctame: **joseealcantaras@gmail.com**
