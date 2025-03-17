@@ -6,4 +6,4 @@
 - 🏢 Ingeniero de software
 - 🧰 Construyo con:  `HTML` , `CSS` , `JavaScript`
 - ⚡ Mis pasatiempos: Tech y de Lifestyle 
-- 📫 Contáctame: **joseealcantaras@gmail.com**
+- 📫 Contáctame: **josealcnntara@gmail.com**
